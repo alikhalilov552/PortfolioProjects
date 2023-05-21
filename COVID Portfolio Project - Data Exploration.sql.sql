@@ -1,3 +1,10 @@
+/*
+Covid 19 Data Exploration 
+
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types, Converting Date/time
+
+*/
+
 -- Select everything from the Covid Vaccinations table and order it by location and date
 
 SELECT 
